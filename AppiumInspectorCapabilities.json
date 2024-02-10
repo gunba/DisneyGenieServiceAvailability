@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "Pixel_3a_API_34_extension_level_7_x86_64",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "http://com.disney.wdw.android",
+  "appium:appActivity": "com.disney.wdpro.park.activities.SplashActivity"
+}
